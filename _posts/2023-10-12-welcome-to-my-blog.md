@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to deladev!"
+title:  "Welcome to my blog!"
 date:   2023-10-12 17:30:00 +0200
 categories: ["intro","first post"]
 ---
