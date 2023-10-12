@@ -6,10 +6,23 @@
   -o-transition: background-color 75ms ease-in, border-color 75ms ease-in;
   transition: background-color 75ms ease-in, border-color 75ms ease-in;
 }
+#social-wrapper {
+  margin-top: 1rem;
+}
 
+#social-wrapper img {
+  width: 35px;
+  height: 35px;
+  margin: 0 0 0.3rem 0;
+  transition: all 0.2s ease-in-out;
+}
+
+#social-wrapper img:hover {
+  transform: scale(1.2);
+}
 .notransition {
   -webkit-transition: none;
-  -moz-transition: none; 
+  -moz-transition: none;
   -ms-transition: none;
   -o-transition: none;
   transition: none;
