@@ -1,5 +1,5 @@
 # Site settings
-title: jdelgit # site title
+title: jdelgit blog # site title
 description: >- # site description
   Welcome to my blog site, I'm {{ site.author.name }} and I like to tinker with different technologies mostly application related and sometimes hardware.
 lang: en-US # default lang
